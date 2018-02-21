@@ -21,6 +21,11 @@
   height: 80px;
   background-color: black;
 }
+
+ul li :first-child{
+      padding-right: 60px;
+}
+    
 ul{
   list-style-type: none;
   display: inline-flex;

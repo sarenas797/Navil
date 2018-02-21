@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import './App.css';
 import Header from './Header';
 import Who from './Who';
+import Products from './Products'
 
 class App extends Component {
   render() {
@@ -12,6 +13,9 @@ class App extends Component {
         </div>
         <div className="Who">
               <Who />
+        </div>
+        <div className="Products">
+              <Products />
         </div>
       </div>
     );
