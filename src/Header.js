@@ -8,9 +8,9 @@ class Header extends Component{
             <div className ="Header">
                 <div className = "navbar">
                     <ul>
-                        <li>< a href=''>ullamcorper</a></li>
-                        <li>< a href=''>eleifend</a></li>
-                        <li>< a href=''>elementum</a></li>
+                        <li>< a href=''>Ullamcorper</a></li>
+                        <li>< a href=''>Eleifend</a></li>
+                        <li>< a href=''>Elementum</a></li>
                         <li>< a href=''>Aliquam</a></li>
                         <li>< a href=''>Praesent</a></li>
                     </ul>
