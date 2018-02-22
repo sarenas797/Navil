@@ -10,9 +10,9 @@ class Header extends Component{
                 <div className = "navbar">
                     <ul>
                         <li><img src ={logo_2 }height="50" width="75" /></li>
-                        <li>< a href=''>Ullamcorper</a></li>
-                        <li>< a href=''>Eleifend</a></li>
-                        <li>< a href=''>Elementum</a></li>
+                        <li>< a href='#Quienes'>Ullamcorper</a></li>
+                        <li>< a href='#Products'>Eleifend</a></li>
+                        <li>< a href='#About'>Elementum</a></li>
                         <li>< a href=''>Aliquam</a></li>
                         <li>< a href=''>Praesent</a></li>
                     </ul>

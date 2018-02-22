@@ -4,7 +4,7 @@ import './Products.css'
 class Products extends Component{
     render(){
         return(
-            <div className="products">
+            <div className="products" id="Products">
                 <p>¿Qué Ofrecemos?</p>
                 <h2 className="Prod">Nuestros Productos</h2>
                 <h4 className="desc">Cras a lacus eget metus imperdiet tincidunt. Vivamus tempor blandit massa, vitae pharetra elit eleifend eget. 

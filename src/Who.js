@@ -4,7 +4,7 @@ import './Who.css'
 class Who extends Component{
     render(){
         return(
-            <div className="info">
+            <div className="info" id="Quienes">
                 <p>Quienes Somos?</p>
                 <h2>"Lorem ipsum dolor sit amet." </h2>
                 <h4>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam molestie felis eu eros dapibus, 
