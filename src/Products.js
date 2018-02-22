@@ -12,14 +12,17 @@ class Products extends Component{
                     Suspendisse ac purus ut quam lacinia iaculis at venenatis mi.
                 </h4>
                 <div className = "grid">
-                    <div className="Pic1">
+                    <a href="" className="Pic1">
                         <h3>Hoodies</h3>
-                    </div>
-                    <div className="Pic2">
+                    </a>
+                    <a href ="" className="Pic2">
                         <h3>Bags</h3>
-                    </div>
-                    <div className="Pic3">
+                    </a>
+                    <a href="" className="Pic3">
                         <h3>Things</h3>
+                    </a>
+                    <div className="buy">
+                        <a href =""><h3>Ver Catalogo</h3></a>
                     </div>
                 </div>
             </div>

@@ -75,3 +75,19 @@
 .Pic3:hover{
   cursor: pointer;
 }
+
+.grid h3 buy{
+  background: none;
+  background-color: #a0033b;
+}
+
+.buy{
+  grid-column: 2;
+  grid-row:6/6;
+  margin-top: 40px;
+}
+.grid a{
+  text-decoration: none;
+  color:#ffffff;
+  background-color: #ffffff;
+}
