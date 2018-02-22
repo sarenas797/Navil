@@ -1,4 +1,6 @@
-
+.App{
+  min-width: 1000px;
+}
 .Container{
   position: relative;
   margin-top:-20px;

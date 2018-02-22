@@ -21,10 +21,7 @@
   width: 100%;
   height: 80px;
   background-color: black;
-}
-
-ul li :first-child{
-      padding-right: 60px;
+  min-width: 40%;
 }
     
 ul{
@@ -45,6 +42,5 @@ li a {
 
 li :hover{
   color:#ba003b;
-  transition:color .5s ease;
+  transition:color .3s ease;
 }
-

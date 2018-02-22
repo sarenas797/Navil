@@ -6,7 +6,7 @@ import './AboutProds.css'
 class AboutProds extends Component {
     render(){
         return(
-            <div className="About" id="About">
+            <div className="About" id="Info">
                 <div className ="AboutImage">
                     <img src ={Gus} height="600" width="100%"/>
                     <div className="AboutText">
