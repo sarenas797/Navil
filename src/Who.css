@@ -7,7 +7,7 @@
     background-color:#aa003b;
 }
 
-p{
+.info p{
     font-size: 20px;
     text-align: center;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
@@ -18,7 +18,7 @@ p{
     margin-left:400px;
 }
 
-h2{
+.info h2{
     font-size: 60px;
     font-weight: bold;
     font-style: italic;
@@ -28,7 +28,7 @@ h2{
     margin-right:200px;
     margin-left:200px;
 }
-h4{
+.info h4{
     font-size: 26px;
     text-align: justify;
     font-family: 'arial narrow', arial;

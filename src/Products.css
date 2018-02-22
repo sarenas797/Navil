@@ -1,10 +1,41 @@
 .Products{
   padding-top:125px;
-  padding-bottom: 175px;
+  padding-bottom: 100px;
 }
 
 .Prod{
-  color:#a0033b
+  color:#aa003b
+}
+
+.products p{
+  font-size: 20px;
+  text-align: center;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  margin-bottom: 50px;
+  border-bottom-style: solid;
+  border-bottom-color: #000000;
+  margin-right:400px;
+  margin-left:400px;
+}
+
+.products h2{
+  font-size: 60px;
+  font-weight: bold;
+  font-style: italic;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  color:#aa003b;
+  margin-right:200px;
+  margin-left:200px;
+}
+
+.products h4{
+  font-size: 26px;
+  text-align: center;
+  font-family: 'arial narrow', arial;
+  letter-spacing: 3px;
+  margin-right:220px;
+  margin-left:220px;
 }
 .desc{
   font-size: 16px;
@@ -60,7 +91,6 @@
 .Pic2:hover{
   transition-duration: .6s ease;
   -webkit-filter:grayscale(1);
-  cursor: pointer;
 }
 
 .Pic3{
@@ -71,14 +101,6 @@
   background-position: center;
   transition-duration: .6s;
   margin-right:10px;
-}
-.Pic3:hover{
-  cursor: pointer;
-}
-
-.grid h3 buy{
-  background: none;
-  background-color: #a0033b;
 }
 
 .buy{
