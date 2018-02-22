@@ -2,7 +2,7 @@
     padding-top:125px;
     padding-left: 70px;
     padding-right:70px;
-    padding-bottom: 125px;
+    padding-bottom: 175px;
     min-width: 1000px;
     background-color:#aa003b;
 }
@@ -12,7 +12,6 @@ p{
     text-align: center;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     margin-bottom: 50px;
-    padding-bottom: 10px;
     border-bottom-style: solid;
     border-bottom-color: #000000;
     margin-right:400px;

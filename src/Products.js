@@ -2,40 +2,24 @@ import React, { Component } from 'react';
 import './Products.css'
 
 class Products extends Component{
-    constructor(props){
-        super(props);
-
-        this.state={
-            slideCount:1
-        };
-    }
-
     render(){
         return(
             <div className="products">
-                <p>Que ofrecemos?</p>
-                <h2>Nuestros Productos</h2>
+                <p>¿Qué Ofrecemos?</p>
+                <h2 className="Prod">Nuestros Productos</h2>
+                <h4 className="desc">Cras a lacus eget metus imperdiet tincidunt. Vivamus tempor blandit massa, vitae pharetra elit eleifend eget. 
+                    Nulla gravida aliquet dignissim. Curabitur feugiat rutrum massa facilisis molestie. 
+                    Suspendisse ac purus ut quam lacinia iaculis at venenatis mi.
+                </h4>
                 <div className = "grid">
-                    <div className="row">
-                        <div className="column">
-                            <img src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy5BZi4gZTaBd83MhlyJ2dHHG0IYCykDyqmIMFVOJVGGygoNc"/>
-                            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzfb8aQmZv2SCrmNEZSg5lxh6XA_OQmFhipy7Xcmht29xCVjJ6"/>
-                            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy5BZi4gZTaBd83MhlyJ2dHHG0IYCykDyqmIMFVOJVGGygoNc"/>
-                        </div>
+                    <div className="Pic1">
+                        <h3>Hoodies</h3>
                     </div>
-                    <div className="row">
-                        <div className="column">
-                            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy5BZi4gZTaBd83MhlyJ2dHHG0IYCykDyqmIMFVOJVGGygoNc"/>
-                            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy5BZi4gZTaBd83MhlyJ2dHHG0IYCykDyqmIMFVOJVGGygoNc"/>
-                            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy5BZi4gZTaBd83MhlyJ2dHHG0IYCykDyqmIMFVOJVGGygoNc"/>
-                        </div>
+                    <div className="Pic2">
+                        <h3>Bags</h3>
                     </div>
-                    <div className="row">
-                        <div className="column">
-                            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy5BZi4gZTaBd83MhlyJ2dHHG0IYCykDyqmIMFVOJVGGygoNc"/>
-                            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy5BZi4gZTaBd83MhlyJ2dHHG0IYCykDyqmIMFVOJVGGygoNc"/>
-                            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy5BZi4gZTaBd83MhlyJ2dHHG0IYCykDyqmIMFVOJVGGygoNc"/>
-                        </div>
+                    <div className="Pic3">
+                        <h3>Things</h3>
                     </div>
                 </div>
             </div>
