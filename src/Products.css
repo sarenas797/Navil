@@ -1,7 +1,7 @@
 .Products{
   padding-top:125px;
   padding-bottom: 100px;
-  background-color: whitesmoke
+  background-color:beige;
 }
 
 .Prod{
@@ -9,9 +9,9 @@
 }
 
 .products p{
-  font-size: 20px;
+  font-size: 30px;
   text-align: center;
-  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-family: Arial, Helvetica, sans-serif;
   margin-bottom: 50px;
   border-bottom-style: solid;
   border-bottom-color: #000000;
@@ -31,29 +31,25 @@
 }
 
 .products h4{
-  font-size: 26px;
+  font-size: 20px;
   text-align: center;
-  font-family: 'arial narrow', arial;
-  letter-spacing: 3px;
+  font-family: sans-serif, Arial;
+  font-weight: 300;
   margin-right:220px;
   margin-left:220px;
-}
-.desc{
-  font-size: 16px;
-  font-family: Cambria, Cochin, Georgia, Times, Times New Roman, serif;
-  text-align: center;
   padding-bottom: 20px;
 }
 .grid{
   display:grid;
-  grid-gap:10px;
+  grid-gap:6px;
   grid-template-columns: repeat(3,1fr);
   grid-auto-rows: minmax(100px, auto);
   padding-bottom: 10px;
   text-align: center;
   color:white;
-  margin-right:100px;
-  margin-left:100px;
+  margin-right:200px;
+  margin-left:200px;
+  min-width: 700px;
 }
 
 .grid h3{
@@ -62,17 +58,20 @@
   font-size: 30px;
   padding-top:15px;
   padding-bottom: 15px;
-  background:rgba(0,0,0,0.7);
+  margin-top: 50px;
+}
+
+.buy h3{
+   background:rgba(0,0,0,0.7);
 }
 
 .Pic1{
   grid-column: 1;
-  grid-row:1/6;
+  grid-row:1/3;
   background-image: url('./Images/Hoddie.jpg');
   background-size: cover;
   background-position: center;
   transition-duration: .6s;
-  margin-left:10px;
 }
 
 .Pic1:hover{
@@ -82,7 +81,7 @@
 }
 .Pic2{
   grid-column: 2;
-  grid-row:1/6;
+  grid-row:1/3;
   background-image: url('./Images/Bag.JPG');
   background-size: cover;
   background-position: center;
@@ -96,17 +95,70 @@
 
 .Pic3{
   grid-column: 3;
-  grid-row:1/6;
+  grid-row:1/3;
   background-image: url('./Images/Thing.JPG');
   background-size:cover;
   background-position: center;
   transition-duration: .6s;
-  margin-right:10px;
+}
+.Pic4{
+  grid-column: 1;
+  grid-row:3/5;
+  background-image: url('./Images/Thing.JPG');
+  background-size:cover;
+  background-position: center;
+  transition-duration: .6s;
+  
+}
+.Pic5{
+  grid-column: 2;
+  grid-row:3/5;
+  background-image: url('./Images/Thing.JPG');
+  background-size:cover;
+  background-position: center;
+  transition-duration: .6s;
+  
+}
+.Pic6{
+  grid-column: 3;
+  grid-row:3/5;
+  background-image: url('./Images/Thing.JPG');
+  background-size:cover;
+  background-position: center;
+  transition-duration: .6s;
+  
+}
+.Pic7{
+  grid-column: 1;
+  grid-row:5/7;
+  background-image: url('./Images/Thing.JPG');
+  background-size:cover;
+  background-position: center;
+  transition-duration: .6s;
+  
+}
+.Pic8{
+  grid-column: 2;
+  grid-row:5/7;
+  background-image: url('./Images/Thing.JPG');
+  background-size:cover;
+  background-position: center;
+  transition-duration: .6s;
+  
+}
+.Pic9{
+  grid-column: 3;
+  grid-row:5/7;
+  background-image: url('./Images/Thing.JPG');
+  background-size:cover;
+  background-position: center;
+  transition-duration: .6s;
+  
 }
 
 .buy{
   grid-column: 2;
-  grid-row:6/6;
+  grid-row:7/7;
   margin-top: 40px;
 }
 .grid a{

@@ -22,21 +22,21 @@ class AboutProds extends Component {
                             Praesent feugiat felis at lectus facilisis, id iaculis eros posuere. In ex.</p>
                     </div>
                     <div className="info2">
-                        <i class="fas fa-leaf fa-5x"></i>
+                        <i className="fas fa-leaf fa-5x"></i>
                         <h3>Lorem ipsum</h3>
                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin aliquet nibh id purus vulputate, 
                             a sagittis dui elementum. 
                             Praesent feugiat felis at lectus facilisis, id iaculis eros posuere. In ex.</p>
                     </div>
                     <div className="info3">
-                        <i class="far fa-handshake fa-5x"></i>
+                        <i className="far fa-handshake fa-5x"></i>
                         <h3>Lorem ipsum</h3>
                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin aliquet nibh id purus vulputate, 
                             a sagittis dui elementum. 
                             Praesent feugiat felis at lectus facilisis, id iaculis eros posuere. In ex.</p>
                     </div>
                     <div className="info4">
-                        <i class="fab fa-accessible-icon fa-5x"></i>
+                        <i className="fab fa-accessible-icon fa-5x"></i>
                         <h3>Lorem ipsum</h3>
                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin aliquet nibh id purus vulputate, 
                             a sagittis dui elementum. 

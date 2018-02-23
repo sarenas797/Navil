@@ -21,6 +21,24 @@ class Products extends Component{
                     <a href="" className="Pic3">
                         <h3>Things</h3>
                     </a>
+                    <a href="" className="Pic4">
+                        <h3>Things</h3>
+                    </a>
+                    <a href="" className="Pic5">
+                        <h3>Things</h3>
+                    </a>
+                    <a href="" className="Pic6">
+                        <h3>Things</h3>
+                    </a>
+                    <a href="" className="Pic7">
+                        <h3>Things</h3>
+                    </a>
+                    <a href="" className="Pic8">
+                        <h3>Things</h3>
+                    </a>
+                    <a href="" className="Pic9 ">
+                        <h3>Things</h3>
+                    </a>
                     <div className="buy">
                         <a href =""><h3>Ver Catalogo</h3></a>
                     </div>
