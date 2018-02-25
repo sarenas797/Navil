@@ -5,7 +5,7 @@ class Products extends Component{
     render(){
         return(
             <div className="products" id="Productos">
-                <h1>Praesent Facilisis</h1>
+                <h1>Las Caras de Navil</h1>
                 <p>
                   Nulla facilisis commodo erat ut vestibulum. Ut interdum urna non iaculis ultricies. 
                 Phasellus condimentum ante id libero lobortis, quis vestibulum lorem imperdiet. 

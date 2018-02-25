@@ -9,13 +9,13 @@ class Header extends Component{
                 <div className = "navbar">
                     <ul>
                         <li>< a href='#Inicio'>Inicio</a></li>
-                        <li>< a href='#Quienes'>Quienes Somos</a></li>
                         <li>< a href='#Productos'>Ellos</a></li>
                         <li>< a href='#Info'>Acerca</a></li>
+                        <li>< a href='#Quienes'>Quienes Somos</a></li>
                         <li>< a href='#Contact'>Contacto</a></li>
                     </ul>
                 </div>
-                <img src={logo} height="475" width="650"/>
+                <img src={logo} height="475" width="650" alt=""/>
             </div>
         )
     }

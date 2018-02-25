@@ -10,7 +10,7 @@ class AboutProds extends Component {
                     <h2>Curabitur sit amet est vitae risus rhoncus posuere vel quis justo.</h2>
                 </div>
                 <div>
-                    <h1>Morbi non ultrices libero</h1>
+                    <h1>Acerca de Nuestros Productos</h1>
                 </div>
                 <div className="grid_2">
                     <div className="info1">

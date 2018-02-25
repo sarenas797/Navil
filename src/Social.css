@@ -1,7 +1,6 @@
 .SocialContainer{
     background-color:#fafafa;
     padding-top: 50px;
-    padding-bottom: 50px;
     position: relative;
 }
 
@@ -72,17 +71,29 @@
 }
 
 .facebook_timeline{
+    position: relative;
     padding-top: 50px;
-    padding-left: 175px;
     padding-bottom: 80px;
+}
+
+.fb-page
+{
+    left:42%;
+    position: absolute;
+}
+
+.map{
+    border:0;
 }
 
 .fa-phone{
     color:#aa003b;
 }
+
 .fa-envelope{
     color:#aa003b;
 }
+
 .fa-compass{
     color:#aa003b;
 }

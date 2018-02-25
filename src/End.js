@@ -7,7 +7,7 @@ class End extends Component{
         return(
             <div className="end">
                 <div className="legal">
-                    <img src={logo} width="100" height="80"/>
+                    <img src={logo} width="100" height="80" alt=""/>
                     <h5>Navil | All Rights Reserved | 2018</h5>
                 </div>
             </div>
