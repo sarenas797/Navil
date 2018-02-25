@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import Gus from './Images/Gus.jpg'
 import './AboutProds.css'
 
 
@@ -8,10 +7,10 @@ class AboutProds extends Component {
         return(
             <div className="About" id="Info">
                 <div className ="AboutImage">
-                    <img src ={Gus} height="600" width="100%"/>
-                    <div className="AboutText">
-                        <h1>Et harum quidem rerum facilis est et expedita distinctio.</h1>
-                    </div>
+                    <h2>Curabitur sit amet est vitae risus rhoncus posuere vel quis justo.</h2>
+                </div>
+                <div>
+                    <h1>Morbi non ultrices libero</h1>
                 </div>
                 <div className="grid_2">
                     <div className="info1">

@@ -1,0 +1,16 @@
+.end{
+    position: relative;
+    background-color:#aa003b;
+    height: 200px;
+}
+.end h5{
+    color:white;
+    margin-top: 30px;
+    margin-left:-50px;
+}
+
+.legal{
+    position: absolute;
+    top:18%;
+    left:47%;
+}

@@ -15,7 +15,6 @@ class Header extends Component{
                         <li>< a href=''>Praesent</a></li>
                     </ul>
                 </div>
-                <h1>Navil</h1>
                 <img src={logo} height="475" width="650"/>
             </div>
         )

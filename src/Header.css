@@ -5,7 +5,7 @@
   background-color:none;
   text-align: center;
 }
-.Header h1{
+/*.Header h1{
   font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   font-size: 85px;
   font-weight: 300;
@@ -15,8 +15,17 @@
   margin-top: 80px;
   letter-spacing: 30px;
 }
+*/
+
+.Header img{
+  margin-top:175px;
+
+}
 
 .navbar{
+  font-family: sans-serif;
+  font-weight: 300;
+  letter-spacing: 2px;
   position: fixed;
   z-index: 99999;
   width: 100%;
@@ -32,7 +41,7 @@ ul{
 
 li{
   padding-top:25px;
-  padding-right: 70px;
+  padding-right: 80px;
   font-size:18px;
 }
 
