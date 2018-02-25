@@ -5,7 +5,7 @@ import './Social.css'
 class Social extends Component{
     render(){
         return(
-            <div className="SocialContainer">
+            <div className="SocialContainer" id="Contact">
                 <p>¿Gustas saber más?</p>
                 <h4>Contáctanos</h4>
                 <h6>

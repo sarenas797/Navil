@@ -10,9 +10,9 @@ class Header extends Component{
                     <ul>
                         <li>< a href='#Inicio'>Inicio</a></li>
                         <li>< a href='#Quienes'>Quienes Somos</a></li>
-                        <li>< a href='#Productos'>Productos</a></li>
-                        <li>< a href='#Info'>Aliquam</a></li>
-                        <li>< a href=''>Praesent</a></li>
+                        <li>< a href='#Productos'>Ellos</a></li>
+                        <li>< a href='#Info'>Acerca</a></li>
+                        <li>< a href='#Contact'>Contacto</a></li>
                     </ul>
                 </div>
                 <img src={logo} height="475" width="650"/>
