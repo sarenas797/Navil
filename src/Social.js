@@ -9,24 +9,25 @@ class Social extends Component{
                 <p>¿Gustas saber más?</p>
                 <h4>Contáctanos</h4>
                 <h6>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce eleifend facilisis lectus, sed lobortis sem. 
-                    Nunc varius magna metus, a tempor urna elementum a. Quisque ut ornare leo.  
+                   ¿Quieres saber más? ¿Tienes alguna pregunta? 
+                   <br/>
+                   ¡No dudes en comunicarte con nosotros!
                 </h6>
                 <div className = "grid_contacts">
                     <div className="Phone">
                     <i className="fas fa-phone fa-4x"></i> 
                         <h5>Teléfono</h5>
-                        <p>Nunc sed massa vel erat dictum semper.</p>
+                        <p>55-6070-3451</p>
                     </div>
                     <div className="Email"> 
                         <i className="far fa-envelope fa-4x"></i>
                         <h5>Correo</h5>
-                        <p>Nunc sed massa vel erat dictum semper.</p>
+                        <p>navilmex@gmail.com</p>
                     </div>
                     <div className="Address"> 
                         <i className="far fa-compass fa-4x"></i>
                         <h5>Dirección</h5>
-                        <p>Nunc sed massa vel erat dictum semper.</p>
+                        <p>Tecnologico de Monterrey Campus Estado de Mexico</p>
                     </div>
                 </div>
                 <div className="facebook_timeline">

@@ -7,14 +7,14 @@ class Products extends Component{
             <div className="products" id="Productos">
                 <h1>Las Caras de Navil</h1>
                 <p>
-                  Nulla facilisis commodo erat ut vestibulum. Ut interdum urna non iaculis ultricies. 
-                Phasellus condimentum ante id libero lobortis, quis vestibulum lorem imperdiet. 
+                  Cada una de nuestras artesanas trabaja para sacar adelante a su familia y todas trabajan en conjunto para el desarrollo de su comunidad. 
+                  Te invitamos a conocer un poco más sobre ellas y los productos que tenemos para ti.
                 <br/>
                 <i className="fas fa-circle"></i>  
                 </p>
                 <div className ="tiendas">
                     <div className="tienda_1">
-                        <h2>Nombre</h2>
+                        <h2>Juana Guzman Lopez</h2>
                         <p>Sed egestas blandit sapien eget rhoncus. Fusce finibus facilisis purus, id aliquet orci tincidunt vitae. 
                             Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. 
                             Quisque massa elit, molestie vitae feugiat eu, consectetur id turpis. 
@@ -30,7 +30,7 @@ class Products extends Component{
                     <div className="mujer1">
                     </div>
                     <div className="tienda_2">
-                        <h2>Nombre</h2>
+                        <h2>María Guzman Insil</h2>
                         <p>Sed egestas blandit sapien eget rhoncus. Fusce finibus facilisis purus, id aliquet orci tincidunt vitae. 
                             Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. 
                             Quisque massa elit, molestie vitae feugiat eu, consectetur id turpis. 
@@ -46,7 +46,7 @@ class Products extends Component{
                     <div className="mujer2">
                     </div>
                     <div className="tienda_3">
-                        <h2>Nombre</h2>
+                        <h2>Juana Guzman Insil</h2>
                         <p>Sed egestas blandit sapien eget rhoncus. Fusce finibus facilisis purus, id aliquet orci tincidunt vitae. 
                             Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. 
                             Quisque massa elit, molestie vitae feugiat eu, consectetur id turpis. 
