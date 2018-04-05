@@ -5,9 +5,7 @@ class Mexico extends Component{
     render(){
         return(
             <div className="Recordar">
-                <h1>This section is still a WIP<br/>
-                    Aqui va el "recordar a mexico" or something like that.
-                </h1>
+                <img src={require("./Images/Recordar.png")}/>
             </div>
         )
     }

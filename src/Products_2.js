@@ -5,58 +5,65 @@ class Products extends Component{
     render(){
         return(
             <div className="products" id="Productos">
-                <h1>Las Caras de Navil</h1>
+                <h1>Narradores</h1>
                 <p>
-                  Cada una de nuestras artesanas trabaja para sacar adelante a su familia y todas trabajan en conjunto para el desarrollo de su comunidad. 
-                  Te invitamos a conocer un poco más sobre ellas y los productos que tenemos para ti.
+                  La cultura Tseltal predomina en los pueblos de Tenejapa, con los que trabajamos. Los símbolos clave de nuestras artesanas, plasman la cosmogonía Tseltal en los bordados que hacen.    
+                <br/>
+                <br/>
+                Acompáñanos a conocer estas historias sobre dioses, animales y la estancia del hombre en la tierra, vista desde la perspectiva maya. 
+
                 <br/>
                 <i className="fas fa-circle"></i>  
                 </p>
                 <div className ="tiendas">
                     <div className="tienda_1">
-                        <h2>Juana Guzman Lopez</h2>
-                        <p>Sed egestas blandit sapien eget rhoncus. Fusce finibus facilisis purus, id aliquet orci tincidunt vitae. 
-                            Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. 
-                            Quisque massa elit, molestie vitae feugiat eu, consectetur id turpis. 
-                            Nulla facilisis commodo erat ut vestibulum. Ut interdum urna non iaculis ultricies. 
-                            Phasellus condimentum ante id libero lobortis, quis vestibulum lorem imperdiet. 
-                            Morbi nibh mauris, maximus eu elit at, lacinia ornare libero. 
-                            Donec tempus massa sed lacus maximus, non placerat lectus pretium. 
-                            Integer condimentum velit non metus suscipit pharetra. 
-                            Pellentesque bibendum feugiat convallis. Orci varius natoque penatibus et magnis dis parturient montes, 
-                            nascetur ridiculus mus. Etiam at neque ac lorem efficitur lacinia eget ut ex.
+                        <h2>Navil</h2>
+                        <p>Imagina vivir en la parte más alta de un cerro, con las nubes acariciando cada centímetro de tierra y con una visibilidad nula a más de 5 metros adelante. Eso es Navil.
+                            <br/>
+                            <br/>
+                            Sin embargo, esto no es todo lo que tiene por ofrecernos. Navil ofrece secretos ancestrales por su lejanía con los demás pueblos y con la cabecera municipal.
+                            <br/>
+                            <br/>
+                            Te invitamos a que conozcas todas esas historias a través del bordado de Navil. <a href="https://docs.google.com/forms/d/e/1FAIpQLScdB5s8qNOeD7VIZf5s86mAlwFA3eqNhTFosEui0n-ClRxIgA/viewform"target="_blank" rel="noopener noreferrer">Descubre</a>
+                              <br/>
+                            <br/>
+                              <br/>
+                            <br/>
                         </p>
                     </div>
                     <div className="mujer1">
                     </div>
                     <div className="tienda_2">
-                        <h2>María Guzman Insil</h2>
-                        <p>Sed egestas blandit sapien eget rhoncus. Fusce finibus facilisis purus, id aliquet orci tincidunt vitae. 
-                            Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. 
-                            Quisque massa elit, molestie vitae feugiat eu, consectetur id turpis. 
-                            Nulla facilisis commodo erat ut vestibulum. Ut interdum urna non iaculis ultricies. 
-                            Phasellus condimentum ante id libero lobortis, quis vestibulum lorem imperdiet. 
-                            Morbi nibh mauris, maximus eu elit at, lacinia ornare libero. 
-                            Donec tempus massa sed lacus maximus, non placerat lectus pretium. 
-                            Integer condimentum velit non metus suscipit pharetra. 
-                            Pellentesque bibendum feugiat convallis. Orci varius natoque penatibus et magnis dis parturient montes, 
-                            nascetur ridiculus mus. Etiam at neque ac lorem efficitur lacinia eget ut ex.
+                        <h2>Chulja</h2>
+                        <p>
+                            Pasando el cerro que conduce a Navil se encuentra Chulja, un pueblo clave en el comercio maya. 
+                            <br/>
+                            <br/>
+                            Chul significa bendecida y Já se refiere a agua. Lo que nos da el nombre de Agua Bendita. En esta comunidad encontramos la mezcla de culturas que Navil Mx promueve. 
+                            <br/>
+                            <br/>
+                            Chulja es un pueblo donde lo tradicional y lo contemporáneo se mezclan en uno solo.<a href="https://docs.google.com/forms/d/e/1FAIpQLScdB5s8qNOeD7VIZf5s86mAlwFA3eqNhTFosEui0n-ClRxIgA/viewform"target="_blank" rel="noopener noreferrer">Descubre</a> esta conjunción mágica con el bordado de Chulja.
+                            <br/>
+                            <br/>
+                            <br/>
+                            <br/>
                         </p>
                     </div>
                     <div className="mujer2">
                     </div>
                     <div className="tienda_3">
-                        <h2>Juana Guzman Insil</h2>
-                        <p>Sed egestas blandit sapien eget rhoncus. Fusce finibus facilisis purus, id aliquet orci tincidunt vitae. 
-                            Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. 
-                            Quisque massa elit, molestie vitae feugiat eu, consectetur id turpis. 
-                            Nulla facilisis commodo erat ut vestibulum. Ut interdum urna non iaculis ultricies. 
-                            Phasellus condimentum ante id libero lobortis, quis vestibulum lorem imperdiet. 
-                            Morbi nibh mauris, maximus eu elit at, lacinia ornare libero. 
-                            Donec tempus massa sed lacus maximus, non placerat lectus pretium. 
-                            Integer condimentum velit non metus suscipit pharetra. 
-                            Pellentesque bibendum feugiat convallis. Orci varius natoque penatibus et magnis dis parturient montes, 
-                            nascetur ridiculus mus. Etiam at neque ac lorem efficitur lacinia eget ut ex.
+                        <h2>Chacoma</h2>
+                        <p>Cuando Chulja se queda a tus espaldas, llegas a Chacoma. Un pueblo que, como Chulja, sirve como paso para el comercio.
+                            <br/>
+                            <br/>
+                            Sin embargo, esta comunidad ha logrado separar lo que significa Tseltal y lo que no de forma visual en sus distintos bordados. En Chacoma podrás encontrar ambas partes de México, juntas pero no revueltas.
+                            <br/>
+                            <br/>
+                            Conoce más de esta mezcla heterogénea con el bordado de Chacoma.<a href="https://docs.google.com/forms/d/e/1FAIpQLScdB5s8qNOeD7VIZf5s86mAlwFA3eqNhTFosEui0n-ClRxIgA/viewform"target="_blank" rel="noopener noreferrer">Descubre</a>
+                            <br/>
+                            <br/>
+                            <br/>
+                            <br/>
                         </p>
                     </div>
                     <div className="mujer3">

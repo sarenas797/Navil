@@ -11,7 +11,6 @@
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
-  background-size: cover;
 }
 .AboutImage h2{
   letter-spacing: 4px;
@@ -93,15 +92,15 @@
   margin-left:10px;
 }
 
-.fa-gift{
+.fa-edit{
   color:#aa003b;
 }
-.fa-leaf{
+.fa-envelope-open{
   color:#aa003b;
 }
 .fa-handshake{
   color:#aa003b;
 }
-.fa-accessible-icon{
+.fa-street-view{
   color:#aa003b;
 }

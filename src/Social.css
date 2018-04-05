@@ -57,7 +57,7 @@
     padding-left: 50px;
     margin-right:200px;
     margin-left:200px;
-    min-width: 500px;
+    min-width: 600px;
 }
 
 .grid_contacts p{
@@ -94,6 +94,11 @@
     color:#aa003b;
 }
 
-.fa-compass{
+.fa-facebook-square{
+    padding-right:70px;
+    color:#aa003b;
+}
+.fa-instagram{
+    position: absolute;
     color:#aa003b;
 }
