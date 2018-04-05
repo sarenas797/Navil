@@ -26,7 +26,7 @@ class Social extends Component{
                     </div>
                     <div className="Address"> 
                         <a href="https://www.facebook.com/Navilmex/" target="_blank" rel="noopener noreferrer"><i className="fab fa-facebook-square fa-4x"></i></a>
-                        <a href="https://www.instagram.com/navilmx/?hl=en" target="_blank" rel="noopener noreferrer"><i class="fab fa-instagram fa-4x"></i></a>
+                        <a href="https://www.instagram.com/navilmx/?hl=en" target="_blank" rel="noopener noreferrer"><i className="fab fa-instagram fa-4x"></i></a>
                     </div>
                 </div>
                {/*

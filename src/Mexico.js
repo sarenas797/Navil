@@ -5,7 +5,7 @@ class Mexico extends Component{
     render(){
         return(
             <div className="Recordar">
-                <img src={require("./Images/Recordar.png")}/>
+                <img src={require("./Images/Recordar.png")} alt="Falta algo aqui"/>
             </div>
         )
     }
